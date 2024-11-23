@@ -1,0 +1,3 @@
+Zapier Workflow Details:
+- Trigger: New lead submission
+- Actions: Lead scoring, email notification, Google Sheets update.
